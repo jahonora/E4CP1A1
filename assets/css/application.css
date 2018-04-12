@@ -1,0 +1,149 @@
+.navbar-brand img{
+	width: 150px;
+}
+.navbar-collapse a{
+	color: gray;
+}
+.navbar-toggle .icon-bar {
+    background-color: white;
+}
+.carousel-control{
+	opacity: 0;
+}
+.navbar{
+	height: 70px;
+	border-radius: 0;
+	background-color:black;
+}
+.item img{
+	height: 300px;
+}
+.section1{
+	overflow: auto;
+	text-align: center;
+	height: 70px;
+}
+.section1 h1{
+	font-weight: normal;
+	color: white;
+}
+.section1 p{
+	padding-top: 10px;
+	color: white;
+	font-size: 12px;
+}
+
+.section2{
+	overflow: auto;
+}
+.s2content{
+	padding-top: 20px;
+	text-align: center;
+}
+.s2content img{
+	height: 300px;
+}
+.s2content h2{
+	font-size: 15px;
+}
+.s2content p{
+	font-size: 12px;
+}
+.section3{
+	padding-top: 30px;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	overflow: auto;
+	background-color: #eeeeee;
+}
+.s3content{
+	padding-top: 20px;
+	text-align: center;
+}
+.s3content img{
+	height: 300px;
+}
+.s3content h2{
+	font-size: 15px;
+}
+.s3content p{
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+.s3content .postula{
+	background-color: blue;
+	padding: 10px;
+	color: white;
+	height: 30px;
+	border-radius: 7px;
+	text-decoration: none;
+}
+.section4{
+	padding-top: 30px;
+	overflow: auto;
+}
+.s4content{
+	padding-top: 20px;
+}
+.s4content .contacto{
+	float: left;
+}
+.s4content .suscribete{
+	float: left;
+}
+.s4content .enviar {
+	padding-top: 20px;
+}
+.s4content .enviar a{
+	color: black;
+	font-size: 12px;
+	border: 1px solid gray;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.s4content .enviar input{
+	border: 1px solid gray;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.s4content h4{
+	font-weight: normal;
+	margin: 0;
+	font-size: 14px;
+	padding-bottom: 10px;
+}
+.s4content p{
+	margin: 0;
+	font-size: 12px;
+}
+.s4content .pstrong{
+	font-weight: bold;
+}
+.s4content .pmail{
+	padding-top: 10px;
+	color: blue;
+}
+.s4content .postula{
+	background-color: blue;
+	color: white;
+	height: 30px;
+	border-radius: 7px;
+	text-decoration: none;
+}
+.form-control{
+	display: inline;
+	width: 70%;
+}
+.footer{
+	color: white;
+	background-color: black;
+	height: 50px;
+}
+.footer h3{
+	font-size: 15px;
+	padding-top: 10px;
+	font-weight: 100;
+
+}
